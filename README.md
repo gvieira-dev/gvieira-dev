@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="sasuke.gif" width="900px" />
+  <img src="sasuke.gif" style="width: 100%; max-width: 900px; border-radius: 10px;" />
 </div>
 
 ---
