@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="sasuke.gif" style="width: 100%; max-width: 900px; border-radius: 10px;" />
+  <img src="sasuke.gif" style="width: 100%; max-width: 900px; border-radius: 12px;" />
 </div>
 
 ---
 
 <div align="center">
 
-## 👋 Hi, my name is Gustavo Vieira
+# 👋 Hi, I'm Gustavo Vieira
 
-💻 Full Stack Developer  
+💻 **Full Stack Developer**  
 🎯 Focused on building modern and scalable web applications  
 🚀 Always learning and evolving  
 
@@ -20,11 +20,15 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gvieira-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gvieira-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvieira-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvieira-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gvieira-dev&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img height="170em" src="https://streak-stats.demolab.com?user=gvieira-dev&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -70,6 +74,6 @@
 
 <div align="center">
 
-✨ “Code. Learn. Build. Repeat.” ✨  
+✨ *“Code. Learn. Build. Repeat.”* ✨  
 
 </div>
