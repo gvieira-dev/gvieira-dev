@@ -56,11 +56,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/seu-link-aqui/" target="_blank">
+<a href="https://www.linkedin.com/in/gustavo-vieira-b55313335/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:gvieiradev26@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
