@@ -1,6 +1,6 @@
 # 🚀 gvieira-dev
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Gabriel%20Vieira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Gustavo%20Vieira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
