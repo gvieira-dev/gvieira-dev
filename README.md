@@ -1,7 +1,7 @@
 # 🚀 gvieira-dev
 
 <div align="center">
-  <img width="100%" src="banner.gif" />
+  <img width="100%" src="sasuke.gif" />
 </div>
 
 ---
