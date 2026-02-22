@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## 👋 Hi, my name is Gabriel Vieira
+## 👋 Hi, my name is Gustavo Vieira
 
 💻 Full Stack Developer  
 🎯 Focused on building modern and scalable web applications  
