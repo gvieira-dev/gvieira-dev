@@ -1,6 +1,10 @@
 # 🚀 gvieira-dev
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Gustavo%20Vieira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<div align="center">
+  <img width="100%" src="banner_gif.gif" />
+</div>
+
+---
 
 <div align="center">
 
@@ -69,7 +73,5 @@
 <div align="center">
 
 ✨ “Code. Learn. Build. Repeat.” ✨  
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
 </div>
