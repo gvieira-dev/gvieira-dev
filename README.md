@@ -8,9 +8,9 @@
 
 # 👋 Hi, I'm Gustavo Vieira
 
-💻 **Full Stack Developer**  
-🎯 Focused on building modern and scalable web applications  
-🚀 Always learning and evolving  
+**Full Stack Developer**  
+Focused on building modern and scalable web applications  
+Always learning and evolving  
 
 </div>
 
@@ -38,15 +38,15 @@
 
 ---
 
-## 🔥 Current Focus
+## Current Focus
 
-- 📚 Improving React skills  
-- 🧠 Studying backend with PHP  
-- ⚡ Building FullStack projects  
+- Improving React skills  
+- Studying backend with PHP  
+- Building FullStack projects  
 
 ---
 
-## 🌎 Connect with me
+## Connect with me
 
 <div align="center">
 
@@ -62,8 +62,6 @@
 
 ---
 
-<div align="center">
-
-✨ *“Code. Learn. Build. Repeat.”* ✨  
+<div align="center">  
 
 </div>
