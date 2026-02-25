@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=7A3CF3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gustavo+Vieira;Full+Stack+Developer;Building+modern+web+applications" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Gustavo%20Vieira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -8,11 +8,13 @@
 
 <div align="center">
 
-## 👋 Gustavo Vieira  
+## Hi, my name is Gustavo Vieira 👋
 
-**Full Stack Developer**  
-Focused on building modern and scalable web applications  
-Always learning and evolving  
+Software Engineering Student  
+Full Stack Developer in progress  
+
+Focused on building real-world web applications  
+Always improving, one project at a time  
 
 </div>
 
@@ -20,9 +22,9 @@ Always learning and evolving
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gvieira-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gvieira-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvieira-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvieira-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -32,25 +34,21 @@ Always learning and evolving
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql" />
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## 📌 Currently Working On
 
-- Improving React skills  
-- Studying backend with PHP  
-- Building FullStack projects  
+- Improving my React fundamentals  
+- Studying backend architecture with PHP  
+- Building FullStack projects with real users  
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
 <div align="center">
 
