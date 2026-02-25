@@ -20,7 +20,7 @@ Focused on consistency, growth and practical experience
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Focused on consistency, growth and practical experience
 
 ---
 
-## 📌 Currently Working On
+## Currently Working On
 
 - Improving my React fundamentals  
 - Studying backend architecture with PHP  
@@ -48,7 +48,7 @@ Focused on consistency, growth and practical experience
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
