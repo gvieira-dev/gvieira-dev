@@ -10,11 +10,11 @@
 
 ## Hi, my name is Gustavo Vieira 👋
 
-Software Engineering Student  
-Full Stack Developer in progress  
+Analysis and Systems Development Student
+Technical Degree in Information Technology
 
-Focused on building real-world web applications  
-Always improving, one project at a time  
+Applying academic knowledge to real-world web projects
+Focused on consistency, growth and practical experience
 
 </div>
 
