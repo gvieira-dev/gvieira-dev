@@ -30,7 +30,7 @@ Focused on consistency, growth and practical experience
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
