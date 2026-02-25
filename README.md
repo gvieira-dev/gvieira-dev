@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="sasuke.gif" style="width: 100%; max-width: 900px; border-radius: 12px;" />
+
+<img src="https://raw.githubusercontent.com/gvieira-dev/gvieira-dev/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ---
@@ -57,11 +59,5 @@ Always learning and evolving
 <a href="mailto:gvieiradev26@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">  
 
 </div>
