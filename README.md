@@ -8,8 +8,6 @@
 
 <div align="center">
 
-## Hi, my name is Gustavo Vieira 👋
-
 Analysis and Systems Development Student  
 Technical Degree in Information Technology  
 
