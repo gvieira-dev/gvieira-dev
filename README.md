@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gvieira-dev/gvieira-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=7A3CF3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gustavo+Vieira;Full+Stack+Developer;Building+modern+web+applications" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Gustavo Vieira
+## 👋 Gustavo Vieira  
 
 **Full Stack Developer**  
 Focused on building modern and scalable web applications  
@@ -20,27 +20,29 @@ Always learning and evolving
 
 <div align="center">
 
-<img height="170em" src="https://streak-stats.demolab.com?user=gvieira-dev&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gvieira-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvieira-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
 
 </div>
 
 ---
 
-## Current Focus
+## 🚀 Current Focus
 
 - Improving React skills  
 - Studying backend with PHP  
@@ -48,7 +50,7 @@ Always learning and evolving
 
 ---
 
-## Connect with me
+## 📫 Connect with me
 
 <div align="center">
 
